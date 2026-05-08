@@ -209,25 +209,25 @@ deployment
 
 ## 1️⃣ MLflow + Docker Deployment Architecture
 
-![MLflow Architecture](screenshots/mlflow-architecture.png)
+![MLflow Architecture](./screenshots/mlflow-architecture.png)
 
 ---
 
 ## 2️⃣ Batch Prediction Pipeline
 
-![Batch Pipeline](screenshots/batch-pipeline.png)
+![Batch Pipeline](./screenshots/batch-pipeline.png)
 
 ---
 
 ## 3️⃣ End-to-End ML Pipeline Architecture
 
-![ML Pipeline Architecture](screenshots/ml-pipeline-architecture.png)
+![ML Pipeline Architecture](./screenshots/ml-pipeline-architecture.png)
 
 ---
 
 ## 4️⃣ Apache Airflow Workflow
 
-![Airflow Workflow](screenshots/airflow-workflow.png)
+![Airflow Workflow](./screenshots/airflow-workflow.png)
 
 🔥 MLFLOW TRACKING
 What to Track
