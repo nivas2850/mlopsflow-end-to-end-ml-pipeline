@@ -61,7 +61,8 @@ AWS S3 (optional)
 
 🔥 PROJECT FLOW
 ## 🔥 PROJECT FLOW
-![Project Flow](screenshots/project-flow.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/72d8c923-bd72-40b2-85c7-a7f157b60fe6" />
+
 
 CSV Dataset
 ↓
@@ -209,25 +210,29 @@ deployment
 
 ## 1️⃣ MLflow + Docker Deployment Architecture
 
-![MLflow Architecture](./screenshots/mlflow-architecture.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e8f8dee9-b289-4353-a286-93c62c2e2c04" />
+
 
 ---
 
 ## 2️⃣ Batch Prediction Pipeline
 
-![Batch Pipeline](./screenshots/batch-pipeline.png)
+<img width="241" height="161" alt="image" src="https://github.com/user-attachments/assets/f0cfa239-dd3f-4f3a-a752-b2e35ec1bae1" />
+
 
 ---
 
 ## 3️⃣ End-to-End ML Pipeline Architecture
 
-![ML Pipeline Architecture](./screenshots/ml-pipeline-architecture.png)
+<img width="829" height="388" alt="image" src="https://github.com/user-attachments/assets/c9108937-5890-4f9e-b7a9-577e05266f73" />
+
 
 ---
 
 ## 4️⃣ Apache Airflow Workflow
 
-![Airflow Workflow](./screenshots/airflow-workflow.png)
+<img width="1400" height="794" alt="image" src="https://github.com/user-attachments/assets/727dfc37-4ae6-4d28-aa1d-69d534f259d6" />
+
 
 🔥 MLFLOW TRACKING
 What to Track
